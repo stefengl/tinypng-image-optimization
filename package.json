@@ -1,0 +1,14 @@
+{
+  "name": "tinypng",
+  "version": "1.0.0",
+  "description": "JavaScript service that takes images from a folder resizes and optimize them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Englmeier",
+  "license": "ISC",
+  "dependencies": {
+    "tinify": "^1.5.0"
+  }
+}

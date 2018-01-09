@@ -1,13 +1,13 @@
-const TINY_API_KEY = 'yuVX20TE7r1ebwVjNTtQTaV469cGJmcW';
+const TINY_API_KEY = '';
 
 const IMAGE_SOURCE_PATH = '';
 
 const RESIZING_INFO = {
-    x: '',
-    y: ''
+    X: 600,
+    Y: 337
 }
 
-export {
+const CONFIG = module.exports = {
     TINY_API_KEY,
     IMAGE_SOURCE_PATH,
     RESIZING_INFO

@@ -9,6 +9,7 @@
   "author": "Stefan Englmeier",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.3.0",
     "tinify": "^1.5.0"
   }
 }
